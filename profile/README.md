@@ -20,22 +20,36 @@ We forge raw ideas into deployed realities, bridging the gap between abstract re
 ---
 
 
+
+
+## 📡 Public Operations & Projects
+
+Select deployed initiatives and open-source repositories.
+
+| Project / Repository | Domain | Intelligence & Capability | Access |
+| :--- | :--- | :--- | :--- |
+| **GainTerrain** | `Terrain Ops` | Advanced visualization and operational data processing for terrain analysis. Forging geospatial data into actionable insights. | [![Deployment](https://img.shields.io/badge/Deploy-Live_System-success?style=flat-square&logo=github)](https://forgingops.github.io/GainTerrain_webpage/) |
+| **Radiometric-Calibration-Core** | `Signal Processing` | Algorithms for the absolute radiometric calibration of radar depth sounders using natural targets and crossover analysis. | [![Internal](https://img.shields.io/badge/Access-Internal_Core-blue?style=flat-square)](https://gitlab.com/openpolarradar/opr) |
+| **Open-Polar-Radar-Sim** | `Simulation` | Comprehensive 3D point-target radar "Full Simulator" developed for the NSF EarthCube Open Polar Radar ecosystem. | [![Open Source](https://img.shields.io/badge/Access-Open_Source-green?style=flat-square)](https://gitlab.com/openpolarradar/opr) |
+| **UWB-Radar-Hardware** | `RF Hardware` | Designs for modular frequency multipliers and ultra-wideband filters for stratospheric UAVs. | [![Hardware](https://img.shields.io/badge/Access-Schematics-orange?style=flat-square)](https://kuscholarworks.ku.edu/entities/publication/aea5b776-731f-4b54-ae91-7e45501e649c) |
+
+---
+
 ## 🤝 Strategic Partnerships & Alliance
 
 **ForgingOps** is actively seeking to expand its alliance network. We invite proposals and discussions from potential partners for high-impact ventures in deep-tech, remote sensing, and RF engineering.
 
 **OPEN FOR:  RESEARCH PARTNERSHIPS • CO-FOUNDER  • VENTURE CAPITAL**
 
+---
+
 <br>
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ForgingOps-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/forgingops/)
-
-</div>
-
-
-
-***
 *We do not just predict the future; we calibrate it.*
 <br>
 © 2025 ForgingOps
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ForgingOps-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/forgingops/)
+</div>
