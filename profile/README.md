@@ -27,6 +27,13 @@ We forge raw ideas into deployed realities, bridging the gap between abstract re
 **OPEN FOR:  RESEARCH PARTNERSHIPS • CO-FOUNDER  • VENTURE CAPITAL**
 
 <br>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ForgingOps-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/forgingops/)
+
+</div>
+
+
 
 ***
 *We do not just predict the future; we calibrate it.*
